@@ -1,0 +1,18 @@
+# Smart Grid Project — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Deep Learning
+torch>=2.0.0
+
+# Data & ML
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Explainability (optional but recommended)
+shap>=0.42.0
+
+# Utilities
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
